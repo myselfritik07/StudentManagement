@@ -1,0 +1,3 @@
+This will basically store any doubt i got during learning and i learned it and stored here.
+
+Diff bw Interface and Abstract classes.
