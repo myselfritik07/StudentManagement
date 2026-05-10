@@ -1,0 +1,21 @@
+ This will be used for things i am learning rn.
+ //use cd ..  in case u wanna leave ur directory
+#Git Commands
+1. git init - Start a new git reoi in current folder
+2. git clone <url> - Download repo from github t our pc
+3. git status - show changed or untracjed files
+4. git add file.type - stage specific file for commit
+5. git add .  - stage all changed files for commit
+6. git commit - m "msg" - save staged changes with a message
+7. git pull origin main - download latest chagnes from github
+8. git log --oneline - show commit history in short from
+9. git log - show commit historyy 
+10. git diff - show exact line changes not committed yet
+11. get branch - List all branches 
+12. git branch <name> - create a new branch
+13. git remote -v - Show githu url linked to repo
+14. git reset --hard - discard all uncommitted changes 
+15. git restore <file> - discard changes in specific file
+cd .. - leave current directory
+cd -  - go to previous
+
